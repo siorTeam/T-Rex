@@ -1,4 +1,4 @@
-# Robot-Arm Structure
+# T-Rex Structure
 
 ## 부품 종류
 
