@@ -15,3 +15,5 @@
 - 전원관련
   - 보조 배터리 (라즈베리 파이 전원 인가용) x1
   - 리튬이온배터리(12V-2400mAh, 모터 전원용) x1
+  - 
+[main 3d file.zip](https://github.com/siorTeam/T-Rex/files/13832508/main.3d.file.zip)
