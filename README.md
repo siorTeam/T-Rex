@@ -7,5 +7,5 @@
   - [`티쪽이 구조도`](v1/src/structure.md) : 티쪽이 부품 & 구조도
   - [`티쪽이 보고서`](v1/src/report.pdf) : 티쪽이 보고서
 - Code
-  - [`steering`](v1/code/steering.py) : 영상 처리 및 조향 제어 코드
-  - [`vision`](v1/code/11_20.py) : 시리얼 입력으로 각 모터 조종하는 코드
+  - [`main`](v1/code/main.py) : 조향 제어 및 통신, 사운드 담당 라즈베리 파이 코드
+  - [`vision`](v1/code/vision.py) : 영상처리 노트북 코드
